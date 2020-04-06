@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/druidmonitor-starter-demo/pom.xml" />
         <option value="$PROJECT_DIR$/web-starter-demo/pom.xml" />
         <option value="$PROJECT_DIR$/datahub-starter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cache-starter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-datasource-starter-demo/pom.xml" />
       </list>
     </option>
   </component>
